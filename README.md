@@ -4,7 +4,7 @@ Repository for versioning the project programmers-anderson-project.
 In this repository, you will be able to find the WebProject solution, built in ASP.NET WebForms, using jQuery on Front-End, and on code behind using, Visual Basic.
 
  
-## 🚀 **Implemented Features**
+## **Project Details**
  
 The project includes two main exercises:
  
@@ -43,18 +43,7 @@ The project includes two main exercises:
  
     * Reverses the entered string on the server side
  
-## 🛠️ **Technologies Used**
- 
-* **ASP.NET Web Forms**
- 
-* **VB.NET**
- 
-* **JavaScript**
- 
-* **jQuery**
- 
- 
-## 📂 **Project Structure**
+## **Project Files**
  
 ```
 AndersonWebProject/
